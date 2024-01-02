@@ -1,0 +1,3 @@
+com.ag2024.core.listeners.SelenideConfigurationListener
+com.ag2024.core.listeners.AttachScreenShotListener
+com.ag2024.core.listeners.CollectAnalyticsDataListener
